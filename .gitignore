@@ -1,0 +1,4 @@
+# Ignore venv items
+Lib
+Scripts
+pyvenv.cfg
